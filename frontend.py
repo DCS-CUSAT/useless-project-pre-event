@@ -1,0 +1,2 @@
+def frontend():
+  return "Frontend"
